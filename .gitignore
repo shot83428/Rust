@@ -10,3 +10,4 @@ Cargo.lock
 **/*.rs.bk
 ./Project/target
 ./Project/target/*
+Project/target
